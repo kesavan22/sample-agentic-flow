@@ -1,3 +1,3 @@
 # sample-agentic-flow
 
-![Alt text](image.png)
+![Alt text](output.png)
